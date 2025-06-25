@@ -21,3 +21,4 @@ Explored Zomato's restaurant dataset to uncover trends in pricing, ratings, and 
 ## Files Description  
 - `Zomato Analysis.ipynb`: Full analysis with visualizations.  
 - `Zomato_cleaned_data.csv`: Processed dataset.  
+- `Zomato Dashboard.pdf`: Visualised Dashboard.  
